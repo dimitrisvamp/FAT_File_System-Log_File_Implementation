@@ -14,5 +14,5 @@ For this reason, we log the operations to a file before updating the system's st
 This repository contains only the files that were modified for the project's needs and not the entire LKL sources and FAT file system.
 
 ## More Information
-For more information regarding the project and its implementation, you can read the Report.pdf file that is uploaded. <br />
+For more information regarding the project and its implementation, you can read the ***Report.pdf*** file that is uploaded. <br />
 Notice that Report.pdf is written in Greek.
