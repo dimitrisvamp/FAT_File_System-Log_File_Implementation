@@ -1,4 +1,4 @@
-# FAT_File_System-Modifications_Log_File
+# FAT_File_System-Log_File_implementation
 
 ## University Project
 A project from Computer Science and Engineering department of the University of Ioannina (UOI).
